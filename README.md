@@ -1,26 +1,35 @@
-📝 Professional To-Do List (HTML + CSS Only)
+# ✅ Professional To-Do List
 
-This is my second web project, built after my Travel Agency website.
-It’s a modern and minimal To-Do List UI created using only HTML and CSS, without any JavaScript.
-The design focuses on simplicity, clean layout, and professional styling — showing how much can be done using just CSS magic!
+A clean and modern **To-Do List UI** built using **HTML & CSS**.  
+This project showcases a professional task management card with custom checkboxes, smooth design, and responsive layout — perfect for productivity apps or portfolio practice.
 
-✨ Features:
+---
 
-Gradient background with centered card layout
+## 📸 Preview
+![Professional To-Do List Screenshot](https://github.com/Saiyonbasorokhaibam/14.Professional-ToDo-list/blob/main/preview.png?raw=true)
 
-Stylish task checkboxes and hover effects
+---
 
-Smooth animations for interactions
+## ✨ Features
+- 🗂️ **Task list card** with title and organized layout
+- ☑️ **Custom checkboxes** with styled checkmark
+- 🎨 **Modern design** — shadows, spacing, and rounded corners
+- 📱 **Responsive layout** for desktop and mobile
+- 💡 Simple, reusable code — great for practice or integration into larger projects
 
-Fully responsive design
+---
 
-No frameworks or JS used — just pure HTML & CSS
+## 🛠️ Technologies Used
+- **HTML5** for structure
+- **CSS3** for styling
+- Custom checkbox styling with pseudo-elements
 
-🧠 Technologies Used:
+---
 
-HTML5
 
-CSS3 (Flexbox, transitions, gradients)
+## 🖊️ Author
+Created by **Saiyon** ✨ 
+Front-End Developer passionate about UI/UX and modern web design.
 
-📂 Project Type:
-Beginner Front-End Project
+## 📜 License
+This project is open source and available under the **MIT License**.  
